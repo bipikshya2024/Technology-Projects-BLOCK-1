@@ -1,14 +1,4 @@
 
-```
-# Part 3 – Component Investigation
-
-Photograph and investigate the following components.
-
-Images should be stored in:
-
-```text
-images/components/
-```
 
 | Component | Function | Key Specification |
 |---|---|---|
